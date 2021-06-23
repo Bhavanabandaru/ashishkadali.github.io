@@ -1,0 +1,55 @@
+.welcome-text{
+    position:absolute;
+    width: 600px;
+    height: 300px;
+    margin: 17% 9%;
+    text-align: center;
+    font-family:"Sofia", sans-serif;
+
+}
+
+
+.welcome-text{
+    text-align: center;
+    color:#1c273b;
+    /* text-transform: uppercase; */
+}
+
+.welcome-text a{
+    color:antiquewhite;
+    /* background-color:#cc99ff; */
+    font-weight:bold;
+    font-size: medium;
+
+}
+
+.welcome-text a:hover{
+    color:black;
+}
+
+.welcome-text p{
+    color:#1c273b;
+    /* background-color:#cc99ff; */
+    font-weight:bold;
+    font-size: large;
+
+}
+
+
+.kadali ul li a{
+
+    color:white;
+
+}
+
+
+
+
+.ashish i{
+
+    color:#1c273b;
+    font-size:xx-large;
+    margin:10% 0%;
+    gap:unset;
+    
+}
